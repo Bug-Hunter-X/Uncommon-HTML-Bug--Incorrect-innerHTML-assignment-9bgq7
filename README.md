@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to incorrect usage of the innerHTML property. The bug involves trying to directly assign a number to innerHTML, instead of a string.  The solution shows how to correct this by converting the number to a string before assignment.
